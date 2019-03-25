@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 598f1dd6df8fbf14486dd530c59b4c28
+timeCreated: 1534006461
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pix PixelFJVerdana12pt
+  fontNames:
+  - pix PixelFJVerdana12pt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

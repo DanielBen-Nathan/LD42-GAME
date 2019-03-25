@@ -1,0 +1,22 @@
+fix hud on web
+
+movement into walls
+
+
+
+
+too hard to put in hole
+
+if time:
+	inc fps
+	melee enemy
+	more powerups
+	help menu
+	arrow face dir
+	dash
+
+if cont dev:
+	random gen map
+	settings menu
+	mobile - joysticks
+	
